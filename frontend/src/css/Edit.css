@@ -1,0 +1,250 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f2fde8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    width: 80%;
+    max-width: 500px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid rgb(8, 102, 14);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(8, 102, 14);
+    font-family: 'Roboto', sans-serif;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: rgb(8, 102, 14);
+}
+input[type="text"],input[type="number"], input[type="email"], input[type="tel"], select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+   
+}
+.buttons button {
+    background-color: #f9fefb;body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f2fde8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+    .container {
+        width: 80%;body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f2fde8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 500px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px auto;
+            border: 2px solid rgb(8, 102, 14);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: rgb(8, 102, 14);
+            font-family: 'Roboto', sans-serif;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: rgb(8, 102, 14);
+        }
+        input[type="text"],input[type="number"], input[type="email"], input[type="tel"], select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .buttons {
+            display: flex;
+            justify-content: center;
+           
+        }
+        .buttons button {
+            background-color: #f9fefb;
+            border-color: #198754;
+            color: #198754;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+            transition: background-color 0.3s ease;
+            border: 2px solid #198754 ;
+        }
+        .buttons button:hover {
+            background-color: #198754;
+            color: #fff;
+        }
+        
+        /* .bnn button {   
+            padding: 10px 18px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            color:  #dc3545;
+            background-color: white;
+            transition: background-color 0.3s ease;
+            border: 1px solid #dc3545;
+        }
+        .bnn button:hover {
+            background-color: #dc3545;
+            color:  #f8f4f5;
+           
+        } */
+         .proimg{
+            height: 20vh;
+            width: 150px;
+         }
+         .proimg img{
+            height: 100%;
+            width: 100%;
+         }
+        max-width: 500px;
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        padding: 20px;
+        margin: 20px auto;
+        border: 2px solid rgb(8, 102, 14);
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgb(8, 102, 14);
+        font-family: 'Roboto', sans-serif;
+    }
+    label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: rgb(8, 102, 14);
+    }
+    input[type="text"],input[type="number"], input[type="email"], input[type="tel"], select {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+    .buttons {
+        display: flex;
+        justify-content: center;
+       
+    }
+    .buttons button {
+        background-color: #f9fefb;
+        border-color: #198754;
+        color: #198754;
+        padding: 10px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background-color 0.3s ease;
+        border: 2px solid #198754 ;
+    }
+    .buttons button:hover {
+        background-color: #198754;
+        color: #fff;
+    }
+    
+    /* .bnn button {   
+        padding: 10px 18px;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+        color:  #dc3545;
+        background-color: white;
+        transition: background-color 0.3s ease;
+        border: 1px solid #dc3545;
+    }
+    .bnn button:hover {
+        background-color: #dc3545;
+        color:  #f8f4f5;
+       
+    } */
+     .proimg{
+        height: 20vh;
+        width: 150px;
+     }
+     .proimg img{
+        height: 100%;
+        width: 100%;
+     }
+    border-color: #198754;
+    color: #198754;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+    border: 2px solid #198754 ;
+}
+.buttons button:hover {
+    background-color: #198754;
+    color: #fff;
+}
+
+/* .bnn button {   
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    color:  #dc3545;
+    background-color: white;
+    transition: background-color 0.3s ease;
+    border: 1px solid #dc3545;
+}
+.bnn button:hover {
+    background-color: #dc3545;
+    color:  #f8f4f5;
+   
+} */
+ .proimg{
+    height: 20vh;
+    width: 150px;
+ }
+ .proimg img{
+    height: 100%;
+    width: 100%;
+ }
